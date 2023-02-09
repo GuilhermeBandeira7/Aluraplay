@@ -1,2 +1,2 @@
 # Aluraplay
-Clone of the desktop and mobile youtube interface
+Aluraplay was created to practice flexbox positioning of the elements of the interface. This a project I made alongside my instructors from Alura.
